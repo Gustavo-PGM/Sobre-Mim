@@ -4,7 +4,7 @@ Olá, sou @Gustavo-PGM, e estou embarcando na minha jornada de desenvolvimento. 
 
 🌱 Atualmente, estou focado nos estudos de Python, explorando suas amplas possibilidades e aprofundando meu conhecimento na linguagem.
 
-💞️ Estou aberto a colaborações e ansioso para participar de projetos empolgantes que envolvam programação Python.
+👨‍💻 Estou aberto a colaborações e ansioso para participar de projetos empolgantes que envolvam programação Python.
 
 📫 Como entrar em contato comigo: [gustavo.cavalcante.gomes06@gmail.com]
 
