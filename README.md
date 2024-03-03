@@ -1,4 +1,4 @@
-**Sobre mim**
+# Sobre mim
 
 Olá! Meu nome é Gustavo Cavalcante Gomes, tenho 17 anos e sou um entusiasta da programação, especialmente focado no desenvolvimento em Python. Atualmente, estou buscando evoluir de um programador júnior para pleno, explorando as vastas possibilidades que essa linguagem oferece.
 
