@@ -17,6 +17,6 @@ Estou em constante busca por aprimoramento das minhas habilidades em Python e es
 
 **Contato**
 
-Se você está interessado em colaborar em projetos ou simplesmente deseja entrar em contato comigo, sinta-se à vontade para me enviar um email para: gustavo.cavalcante.gomes06@gmail.com.
+Se você está interessado em colaborar em projetos ou simplesmente deseja entrar em contato comigo, sinta-se à vontade para me enviar um email para: gustavo.cavalcante.gomes60@gmail.com.
 
 Estou ansioso para trabalhar em projetos complexos e aprender com outros desenvolvedores!
