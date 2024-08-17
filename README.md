@@ -2,8 +2,6 @@
 
 Olá! Meu nome é Gustavo Cavalcante Gomes, tenho 17 anos e sou um estudante dedicado à programação, com foco especial em desenvolvimento em Python e Django. Atualmente, estou buscando evoluir de programador júnior para pleno, explorando as vastas possibilidades que essas tecnologias oferecem.
 
-![Meu Perfil](https://avatars.githubusercontent.com/u/130493202?v=4)
-
 ## Habilidades
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
