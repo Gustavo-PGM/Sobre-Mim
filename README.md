@@ -4,8 +4,8 @@ Olá! Meu nome é Gustavo Cavalcante Gomes, tenho 17 anos e sou um estudante ded
 
 ## Habilidades
 
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Django](https://img.shields.io/badge/Django-3.2-green)
+![Python](https://img.shields.io/badge/Python-3.10.2-blue)
+![Django](https://img.shields.io/badge/Django-5.1-green)
 
 - **Linguagens:** Python
 - **Frameworks:** Django
