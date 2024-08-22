@@ -1,6 +1,6 @@
 # Sobre Mim
 
-Olá! Meu nome é Gustavo Cavalcante Gomes, tenho 17 anos e sou um estudante dedicado à programação, com foco especial em desenvolvimento em Python e Django. Atualmente, estou buscando evoluir de programador júnior para pleno, explorando as vastas possibilidades que essas tecnologias oferecem.
+Olá! Sou Gustavo Cavalcante Gomes, tenho 17 anos e estou imerso no mundo da programação. Meu foco é em Python e Django, e estou começando a explorar o fascinante campo da Inteligência Artificial. Estou sempre em busca de oportunidades para colaborar em projetos e aprender mais sobre essas tecnologias.
 
 ## Habilidades
 
@@ -10,18 +10,18 @@ Olá! Meu nome é Gustavo Cavalcante Gomes, tenho 17 anos e sou um estudante ded
 - **Linguagens:** Python
 - **Frameworks:** Django
 - **Nível de Experiência:** Júnior
-- **Interesses:** Desenvolvimento de sistemas e aplicações, aprendizado contínuo e colaboração em projetos envolventes.
+- **Interesses:** Desenvolvimento de sistemas, aprendizado contínuo e aplicações de Inteligência Artificial.
 
 ## Objetivos
 
-Estou em constante busca pelo aprimoramento das minhas habilidades em Python e Django. Estou aberto a colaborar em projetos interessantes que envolvam essas tecnologias. Meu objetivo é contribuir ativamente em projetos desafiadores enquanto continuo expandindo meu conhecimento e experiência.
+Busco aprimorar minhas habilidades em Python, Django e Inteligência Artificial. Estou aberto a colaborar em projetos interessantes e desafiadores para expandir meu conhecimento e contribuir com soluções inovadoras.
 
 ## Projetos
 
-Confira meus projetos no [GitHub](https://github.com/Gustavo-PGM) e veja como estou aplicando minhas habilidades em programação!
+Veja como estou aplicando minhas habilidades em programação no meu [GitHub](https://github.com/Gustavo-PGM).
 
 ## Contato
 
-Se você está interessado em colaborar em projetos ou simplesmente deseja entrar em contato comigo, sinta-se à vontade para me enviar um email para: [gustavo.cavalcante.gomes06@gmail.com](mailto:gustavo.cavalcante.gomes06@gmail.com).
+Se você deseja colaborar em projetos ou apenas conversar sobre tecnologia, entre em contato pelo e-mail: [gustavo.cavalcante.gomes06@gmail.com](mailto:gustavo.cavalcante.gomes06@gmail.com). 
 
-Estou ansioso para trabalhar em projetos complexos e aprender com outros desenvolvedores!
+Estou animado para explorar novas oportunidades e aprender com a comunidade de desenvolvedores!
